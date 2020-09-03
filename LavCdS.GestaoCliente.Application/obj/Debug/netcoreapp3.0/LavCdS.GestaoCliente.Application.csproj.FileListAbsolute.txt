@@ -1,0 +1,12 @@
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.deps.json
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.dll
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.pdb
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.dll
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.pdb
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.csprojAssemblyReference.cache
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.AssemblyInfoInputs.cache
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.AssemblyInfo.cs
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.csproj.CopyComplete
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.dll
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.pdb
+C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Application.csproj.CoreCompileInputs.cache

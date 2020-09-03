@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Idzrs0LfYVNmBCz13R9Ry0d1/whPU9/cnFW0OYo9X2bMKhEX+rDQa7cNs8L9aPiveZc9X+5O1P10SMjmAQx5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LavCdC.Cliente.Domain\\LavCdS.GestaoCliente.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

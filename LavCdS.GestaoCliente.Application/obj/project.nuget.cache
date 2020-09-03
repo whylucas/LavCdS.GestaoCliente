@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEjsK8kJNQywhabo2D+GwgLmalRgd403zO1h62zA2e9Ojcie65j4rlKKXeD1kIR2TlFH55k9dY1FS9W+NOEEwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LadCdS.Cliente.Application\\LavCdS.GestaoCliente.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
