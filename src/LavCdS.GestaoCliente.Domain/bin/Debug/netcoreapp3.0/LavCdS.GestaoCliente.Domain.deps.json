@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LavCdS.GestaoCliente.Domain/1.0.0": {
+        "runtime": {
+          "LavCdS.GestaoCliente.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LavCdS.GestaoCliente.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.7"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.7": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
+        }
+      },
+      "Npgsql/4.1.4": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Npgsql.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Npgsql.dll": {}
+        }
+      },
+      "System.Memory/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "LavCdS.GestaoCliente.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/LavCdS.GestaoCliente.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LavCdS.GestaoCliente.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.7": {
+      "sha512": "WJEbrrIgly95D9rM8Gwr4w8sbYla6/iOcCZ0UE7+Qg/Q8NnQJwAJ60Lq1A26zbNE8Fm1fkbGU90LDl8e+BoRSQ==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/3.1.7": {
+      "sha512": "sa17s3vDAXTuIVGxuJcK713i0B0iaUoiwY4Sl2SLHhMqM8snznn0YVGiZAVkoKEUFWjvIg1Z/JNmAicBamI4mg==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/3.1.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec"
+      ]
+    },
+    "Npgsql/4.1.4": {
+      "sha512": "qLwnSF7GAAxxrNFH3EprG352CJbhTCIDkk9PJ3/6aBeMOZBq+QMI1Yxsi9aUrBJwE51PaMLIYw0eq/bv9CGQTw==",
+      "type": "package",
+      "path": "npgsql/4.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Npgsql.dll",
+        "lib/net461/Npgsql.xml",
+        "lib/netcoreapp3.0/Npgsql.dll",
+        "lib/netcoreapp3.0/Npgsql.xml",
+        "lib/netstandard2.0/Npgsql.dll",
+        "lib/netstandard2.0/Npgsql.xml",
+        "lib/netstandard2.1/Npgsql.dll",
+        "lib/netstandard2.1/Npgsql.xml",
+        "npgsql.4.1.4.nupkg.sha512",
+        "npgsql.nuspec",
+        "postgresql.png"
+      ]
+    },
+    "System.Memory/4.5.2": {
+      "sha512": "fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "type": "package",
+      "path": "system.memory/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.2.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+      "sha512": "zOHkQmzPCn5zm/BH+cxC1XbUS3P4Yoi3xzW7eRgVpDR2tPGSzyMZ17Ig1iRkfJuY0nhxkQQde8pgePNiA7z7TQ==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/4.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "LavCdS.GestaoCliente.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LavCdC.Cliente.Domain/LavCdS.GestaoCliente.Domain.csproj",
+      "msbuildProject": "../LavCdC.Cliente.Domain/LavCdS.GestaoCliente.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "LavCdS.GestaoCliente.Domain >= 1.0.0",
+      "Microsoft.Extensions.Configuration.Abstractions >= 3.1.7",
+      "Npgsql >= 4.1.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LavCdC.Cliente.Infrastructure\\LavCdS.GestaoCliente.Infrastructure.csproj",
+      "projectName": "LavCdS.GestaoCliente.Infrastructure",
+      "projectPath": "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LavCdC.Cliente.Infrastructure\\LavCdS.GestaoCliente.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LavCdC.Cliente.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LavCdC.Cliente.Domain\\LavCdS.GestaoCliente.Domain.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Lavanderia\\LadCdS.GestaoCliente\\LavCdC.Cliente.Domain\\LavCdS.GestaoCliente.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": {
+            "target": "Package",
+            "version": "[3.1.7, )"
+          },
+          "Npgsql": {
+            "target": "Package",
+            "version": "[4.1.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\bin\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.deps.json
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\bin\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.dll
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\bin\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.pdb
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.csprojAssemblyReference.cache
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.AssemblyInfo.cs
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.dll
+C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.pdb
