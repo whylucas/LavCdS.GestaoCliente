@@ -1,4 +1,0 @@
-C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LadCdS.Cliente.Application\bin\Debug\netcoreapp3.0\LavCdS.Cliente.Domain.dll
-C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Application.csprojAssemblyReference.cache
-C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Application.AssemblyInfoInputs.cache
-C:\Users\Lucas\Lavanderia\LadCdS.Cliente\LadCdS.Cliente.Application\obj\Debug\netcoreapp3.0\LavCdS.Cliente.Application.AssemblyInfo.cs

@@ -1,9 +1,0 @@
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.deps.json
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.dll
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\bin\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.pdb
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.csprojAssemblyReference.cache
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.AssemblyInfoInputs.cache
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.AssemblyInfo.cs
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.dll
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.pdb
-C:\Users\Lucas\Lavanderia\LadCdS.GestaoCliente\LavCdC.Cliente.Domain\obj\Debug\netcoreapp3.0\LavCdS.GestaoCliente.Domain.csproj.CoreCompileInputs.cache

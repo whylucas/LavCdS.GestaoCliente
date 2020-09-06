@@ -15,7 +15,6 @@ using LavCdS.GestaoCliente.Domain.Model;
 using LavCdS.GestaoCliente.Infrastructure.Repositories.PostgreSQL;
 using LavCdS.GestaoCliente.Application.Application;
 
-
 namespace LavCdS.GestaoCliente
 {
     public class Startup
